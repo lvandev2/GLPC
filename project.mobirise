@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GLPC Website",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1152,8 +1152,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-20180203-142710934-hdr-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20180203-142710934-hdr-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2015-02-12-10.02.11-1-1281x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2015-02-12-10.02.11-1-1281x720-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1165,8 +1165,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-20180203-142841437-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20180203-142841437-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2015-02-12-10.02.06-2000x1123.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2015-02-12-10.02.06-2000x1123-800x449.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
