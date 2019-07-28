@@ -45,7 +45,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "GLPC",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -591,7 +591,7 @@
     "page1.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "Page 1",
+        "title": "GLPC 1",
         "order": 1
       },
       "components": [
