@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
 
 
 
@@ -27,7 +28,7 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -41,7 +42,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {
@@ -2901,9 +2902,21 @@ body {
 .cid-rxlfwnI1LJ .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rxJjOnDOFR {
+.cid-rxXfHcjDfe {
   padding-top: 90px;
-  padding-bottom: 45px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/juergen-colourful-stones-2000x1333.jpg");
+}
+.cid-rxXfHcjDfe H1 {
+  color: #ffffff;
+}
+.cid-rxXfHcjDfe .mbr-text,
+.cid-rxXfHcjDfe .mbr-section-btn {
+  color: #cccccc;
+}
+.cid-rxJjOnDOFR {
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rxJjOnDOFR .title {
@@ -3474,7 +3487,7 @@ body {
 .cid-rxQ9mmZsQi {
   padding-top: 90px;
   padding-bottom: 0px;
-  background-color: #cccccc;
+  background-image: url("../../../assets/images/juergen-colourful-stones-2000x1333.jpg");
 }
 .cid-rxQ9mmZsQi H1 {
   color: #ffffff;
@@ -4161,7 +4174,7 @@ body {
 .cid-rxTxQlBop5 {
   padding-top: 90px;
   padding-bottom: 0px;
-  background-color: #cccccc;
+  background-image: url("../../../assets/images/juergen-colourful-stones-2000x1333.jpg");
 }
 .cid-rxTxQlBop5 H1 {
   color: #ffffff;
@@ -4653,7 +4666,7 @@ body {
 .cid-rxTN9QN7uk {
   padding-top: 90px;
   padding-bottom: 0px;
-  background-color: #cccccc;
+  background-image: url("../../../assets/images/juergen-colourful-stones-2000x1333.jpg");
 }
 .cid-rxTN9QN7uk H1 {
   color: #ffffff;
