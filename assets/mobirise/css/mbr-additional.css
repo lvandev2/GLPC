@@ -4204,6 +4204,27 @@ body {
 .cid-rxTxQlBop5 .mbr-section-btn {
   color: #ffffff;
 }
+.cid-rMy6PUuivO {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rMy6PUuivO .title {
+  margin-bottom: 2rem;
+}
+.cid-rMy6PUuivO .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rMy6PUuivO a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rMy6PUuivO a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rMy6PUuivO textarea.form-control {
+  min-height: 188px;
+}
 .cid-rxTxQsZHGy {
   padding-top: 15px;
   padding-bottom: 15px;
