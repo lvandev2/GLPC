@@ -2953,6 +2953,34 @@ body {
 .cid-rxJjOnDOFR H5 {
   color: #55b4d4;
 }
+.cid-rOvMeeBeJO {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rOvMeeBeJO .title {
+  padding-bottom: 2.5rem;
+}
+.cid-rOvMeeBeJO .mbr-text {
+  color: #767676;
+  margin: 0;
+  padding-top: 0.5rem;
+}
+.cid-rOvMeeBeJO .wrapper {
+  display: flex;
+  padding: 1rem 0;
+}
+.cid-rOvMeeBeJO .wrapper .b-info {
+  width: 100%;
+}
+@media (max-width: 767px) {
+  .cid-rOvMeeBeJO .iconfont-wrapper {
+    display: none;
+  }
+}
+.cid-rOvMeeBeJO H5 {
+  color: #55b4d4;
+}
 .cid-rxKqb6q198 {
   padding-top: 90px;
   padding-bottom: 90px;
