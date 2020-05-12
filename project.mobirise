@@ -38,7 +38,7 @@
     "uniqCompNum": 34,
     "versionPublish": "4.10.6",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/glpc-logo-128x133-1.png",
+    "favicon": "",
     "noImageResize": ""
   },
   "pages": {
