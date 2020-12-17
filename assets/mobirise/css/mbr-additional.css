@@ -7610,10 +7610,13 @@ section.lazy-placeholder:after {
 .cid-shaYPSuGeL .media-container-row .row-copirayt p {
   width: 100%;
 }
-.cid-shaZ0XQisg {
-  padding-top: 90px;
+.cid-sjohfHei0J {
+  padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-color: #efefef;
+}
+.cid-sjohfHei0J P {
+  color: #767676;
 }
 .cid-shaZBNann2 .navbar {
   padding: .5rem 0;
