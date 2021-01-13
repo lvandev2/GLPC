@@ -1043,7 +1043,7 @@ section.lazy-placeholder:after {
 .cid-sb9Lra9d41 {
   padding-top: 90px;
   padding-bottom: 15px;
-  background-color: #073b4c;
+  background-image: url("../../../assets/images/feb2-2020.jpg");
 }
 .cid-sb9Lra9d41 .media-container-row {
   flex-direction: row-reverse;
@@ -2793,6 +2793,17 @@ section.lazy-placeholder:after {
 .cid-rxQ9mmZsQi .mbr-section-btn {
   color: #cccccc;
 }
+.cid-slZoGuJRvi {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-slZoGuJRvi P {
+  color: #767676;
+}
+.cid-slZoGuJRvi H1 {
+  color: #ff3366;
+}
 .cid-rxRmrni6os {
   padding-top: 60px;
   padding-bottom: 45px;
@@ -4008,6 +4019,17 @@ section.lazy-placeholder:after {
 .cid-rxTN9QN7uk .mbr-text,
 .cid-rxTN9QN7uk .mbr-section-btn {
   color: #cccccc;
+}
+.cid-slZps68x4p {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-slZps68x4p P {
+  color: #767676;
+}
+.cid-slZps68x4p H1 {
+  color: #ff3366;
 }
 .cid-rxTN9SAJYz {
   padding-top: 60px;
