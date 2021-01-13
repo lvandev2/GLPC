@@ -1043,7 +1043,7 @@ section.lazy-placeholder:after {
 .cid-sb9Lra9d41 {
   padding-top: 90px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/feb2-2020.jpg");
+  background-image: url("../../../assets/images/feb2-2021.jpg");
 }
 .cid-sb9Lra9d41 .media-container-row {
   flex-direction: row-reverse;
@@ -2235,8 +2235,8 @@ section.lazy-placeholder:after {
   color: #55b4d4;
 }
 .cid-rxKqb6q198 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 15px;
   background-color: #efefef;
 }
 .cid-rxKqb6q198 .mbr-slider .carousel-control {
@@ -2295,6 +2295,14 @@ section.lazy-placeholder:after {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-slZE4COd4h {
+  padding-top: 135px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-slZE4COd4h P {
+  color: #767676;
 }
 .cid-rxKqeKUFK1 {
   padding-top: 15px;
