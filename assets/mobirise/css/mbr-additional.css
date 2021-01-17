@@ -1625,18 +1625,14 @@ section.lazy-placeholder:after {
 .cid-rycVV28DXc .mbr-section-btn {
   color: #cccccc;
 }
-.cid-smjzYj01hU {
+.cid-smjRkuR5S7 {
   padding-top: 90px;
-  padding-bottom: 15px;
-  background-color: #cccccc;
+  padding-bottom: 90px;
+  background-color: #efefef;
 }
-.cid-smjzYj01hU .mbr-text,
-.cid-smjzYj01hU .mbr-section-btn {
-  color: #45505b;
-  text-align: left;
-}
-.cid-smjzYj01hU .mbr-text,
-.cid-smjzYj01hU .mbr-section-btn P {
+.cid-smjRkuR5S7 .mbr-text,
+.cid-smjRkuR5S7 .mbr-section-btn {
+  color: #0e0101;
   text-align: left;
 }
 .cid-smjAkKMaei {
