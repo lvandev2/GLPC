@@ -1628,7 +1628,7 @@ section.lazy-placeholder:after {
 .cid-smjzYj01hU {
   padding-top: 90px;
   padding-bottom: 15px;
-  background-color: #cccccc;
+  background-color: #efefef;
 }
 .cid-smjzYj01hU .mbr-text,
 .cid-smjzYj01hU .mbr-section-btn {
@@ -1637,7 +1637,7 @@ section.lazy-placeholder:after {
 }
 .cid-smjzYj01hU .mbr-text,
 .cid-smjzYj01hU .mbr-section-btn P {
-  text-align: right;
+  text-align: left;
 }
 .cid-smjAkKMaei {
   background: #efefef;
