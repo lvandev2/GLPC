@@ -5809,15 +5809,9 @@ section.lazy-placeholder:after {
   padding-bottom: 0px;
   background-color: #efefef;
 }
-.cid-somyem52TC .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
 @media (min-width: 992px) {
   .cid-somyem52TC .mbr-figure {
     padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
@@ -5831,10 +5825,10 @@ section.lazy-placeholder:after {
   }
 }
 .cid-somyem52TC H1 {
-  color: #149dcc;
+  color: #0f7699;
 }
 .cid-somyem52TC H3 {
-  color: #149dcc;
+  color: #45505b;
 }
 .cid-rR9u4B5yHI {
   padding-top: 15px;
