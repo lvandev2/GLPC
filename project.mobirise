@@ -56,7 +56,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
@@ -9229,7 +9229,7 @@
       "settings": {
         "meta_descr": "Website Links",
         "title": "2020-Photo-Page",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -11141,7 +11141,7 @@
       "settings": {
         "meta_descr": "Website Links",
         "title": "2018-Photos",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -12823,7 +12823,7 @@
       "settings": {
         "meta_descr": "Website Links",
         "title": "2019-Photos",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -13583,7 +13583,7 @@
       "settings": {
         "meta_descr": "Website Links",
         "title": "2021 - Photos",
-        "order": 7
+        "order": 3
       },
       "components": [
         {
@@ -14203,8 +14203,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/mon-group1-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mon-group1-1-717x512.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mon-group1-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mon-group1-2-714x478.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -14305,7 +14305,8 @@
                 "& when (@gradOverlay)": {
                   "background": "linear-gradient(to left, @overlayColor, @overlayColor2) !important"
                 }
-              }
+              },
+              "text-align": "center"
             }
           },
           "_name": "gallery4",
@@ -14331,7 +14332,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "WED NIGHT - NANCY&nbsp; NOLA&nbsp; SHARON&nbsp; DEBBIE",
+                "caption": "WED NIGHT&nbsp;&nbsp;<br>NANCY&nbsp; NOLA&nbsp; SHARON&nbsp; DEBBIE",
                 "active": false
               },
               {
@@ -14344,7 +14345,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "WED NIGHT - BONNIE&nbsp; PAM&nbsp; MARCELLA&nbsp; TERRI",
+                "caption": "WED NIGHT&nbsp;&nbsp;<br>BONNIE&nbsp; PAM&nbsp; MARCELLA&nbsp; TERRI",
                 "active": false
               },
               {
@@ -14357,7 +14358,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "WED NIGHT - DEBBIE&nbsp; PEGGY&nbsp; MARY V&nbsp; MARY L",
+                "caption": "WED NIGHT&nbsp;&nbsp;<br>DEBBIE&nbsp; PEGGY&nbsp; MARY V&nbsp; MARY L",
                 "active": true
               }
             ]
@@ -14663,7 +14664,7 @@
       "settings": {
         "meta_descr": "Website Links",
         "title": "2016-Photos",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
