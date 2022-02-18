@@ -4324,8 +4324,17 @@ section.lazy-placeholder:after {
 .cid-rydjPjYSIC .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-sX4s6xM4dU {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-sX4s6xM4dU .mbr-text,
+.cid-sX4s6xM4dU .mbr-section-btn {
+  text-align: left;
+}
 .cid-rydjPliGOb {
-  padding-top: 90px;
+  padding-top: 75px;
   padding-bottom: 0px;
   background-color: #073b4c;
 }
@@ -4335,6 +4344,15 @@ section.lazy-placeholder:after {
 .cid-rydjPliGOb .mbr-text,
 .cid-rydjPliGOb .mbr-section-btn {
   color: #cccccc;
+}
+.cid-sX4s8v8fTJ {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-sX4s8v8fTJ .mbr-text,
+.cid-sX4s8v8fTJ .mbr-section-btn {
+  text-align: left;
 }
 .cid-rydjPmVy7z {
   padding-top: 60px;
