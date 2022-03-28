@@ -12897,11 +12897,12 @@ section.lazy-placeholder:after {
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-t0cvLxtJWL {
-  background: #ffffff;
+  background: #efefef;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 .cid-t0cvLxtJWL .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-t0cvLxtJWL figcaption {
   position: relative;
